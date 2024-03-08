@@ -9,11 +9,10 @@
 
 ## Alunos integrantes da equipe
 
-* [Nome completo do aluno 1 (com link para Github)](https://github.com/aluno1)
-* [Nome completo do aluno 2 (com link para Github)](https://github.com/aluno2)
-* [Nome completo do aluno 3 (com link para Github)](https://github.com/aluno3)
-* [Nome completo do aluno 4 (com link para Github)](https://github.com/aluno4)
-* [Nome completo do aluno 5 (com link para Github)](https://github.com/aluno5)
+* [Ana Beatriz Santos de Oliveira](https://github.com/Ana-Bea-S)
+* [Bárbara Maria Sampaio Portes](https://github.com/aluno2)
+* [Eron Arthur da Silva](https://github.com/SrEron)
+* [Rodrigo Albuquerque Rocha](https://github.com/Rodrigo-ARocha)
 
 ## Professor responsável
 
