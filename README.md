@@ -3,9 +3,9 @@
 
 # Nome do projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  CARD - Heart Rate Monitor ......
 
-> Descreva, em um ou dois parágrafos, um resumo do projeto (principais objetivos e justificativa).
+Nos dias atuais, observamos um aumento significativo nas doenças cardíacas, com um risco crescente de ataques cardíacos. Para abordar essa preocupação, propomos um sistema inovador que utiliza sensores para detectar a frequência cardíaca de uma pessoa, mesmo enquanto ela está em casa. Esses sensores são conectados a um microcontrolador que permite a verificação das leituras da frequência cardíaca e sua transmissão pela internet.
 
 ## Alunos integrantes da equipe
 
