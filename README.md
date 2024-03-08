@@ -10,7 +10,7 @@
 ## Alunos integrantes da equipe
 
 * [Ana Beatriz Santos de Oliveira](https://github.com/Ana-Bea-S)
-* [Bárbara Maria Sampaio Portes](https://github.com/aluno2)
+* [Bárbara Maria Sampaio Portes](https://github.com/bmsampaio)
 * [Eron Arthur da Silva](https://github.com/SrEron)
 * [Rodrigo Albuquerque Rocha](https://github.com/Rodrigo-ARocha)
 
