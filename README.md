@@ -1,9 +1,7 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=14228659&assignment_repo_type=AssignmentRepo)
 ![ICEI](images/icei-pucminas.png)
 
-# Nome do projeto
-
-......  CARD - Heart Rate Monitor ......
+# CARD - Heart Rate Monitor
 
 Nos dias atuais, observamos um aumento significativo nas doenças cardíacas, com um risco crescente de ataques cardíacos. Para abordar essa preocupação, propomos um sistema inovador que utiliza sensores para detectar a frequência cardíaca de uma pessoa, mesmo enquanto ela está em casa. Esses sensores são conectados a um microcontrolador que permite a verificação das leituras da frequência cardíaca e sua transmissão pela internet.
 
