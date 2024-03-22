@@ -235,7 +235,7 @@ A tabela a seguir apresenta as restrições do projeto.
 | Protótipo Interativo  | MavelApp ou Figma  | https://figma.com/XXXXXXX  |               |
 | Documentos Textuais   | LibreOffice Writer | N/A                        |               |
 | Planilhas e Gráficos  | Google Planilhas   | https://docs.google.com/   |               |
-| EAP / WBS             | | | |
+| EAP / WBS             | Miro | [Clique para acessar](artefatos/estrutura_analitica_do_projeto.pdf) | |
 | Cronograma do Projeto | | | |
 | Matriz RACI           | | | |
 
@@ -247,10 +247,6 @@ A tabela a seguir apresenta as restrições do projeto.
 ## Declaração de Escopo
 
 - [Declaração de Escopo](artefatos/declaracao_de_escopo.pdf)
-
-## Estrutura Analítica do Projeto (EAP)
-
-- [Estrutura Analítica do Projeto](artefatos/estrutura_analitica_do_projeto.pdf)
 
 ## Registro de Partes Interessadas
 
