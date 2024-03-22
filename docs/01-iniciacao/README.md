@@ -246,11 +246,11 @@ A tabela a seguir apresenta as restrições do projeto.
 
 ## Declaração de Escopo
 
-- [Declaração de Escopo](04-monitoramento/artefatos/declaracao_de_escopo.pdf)
+- [Declaração de Escopo](artefatos/declaracao_de_escopo.pdf)
 
 ## Estrutura Analítica do Projeto (EAP)
 
-- [Estrutura Analítica do Projeto](04-monitoramento/artefatos/estrutura_analitica_do_projeto.pdf)
+- [Estrutura Analítica do Projeto](artefatos/estrutura_analitica_do_projeto.pdf)
 
 ## Registro de Partes Interessadas
 
