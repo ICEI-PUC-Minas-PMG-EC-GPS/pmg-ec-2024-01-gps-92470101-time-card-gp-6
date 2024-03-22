@@ -246,13 +246,16 @@ A tabela a seguir apresenta as restrições do projeto.
 
 ## Declaração de Escopo
 
-> Você deve preencher o seguinte documento:
-- [Declaração de Escopo](artefatos/declaracao-escopo.docx)
+- [Declaração de Escopo](04-monitoramento/artefatos/declaracao_de_escopo.pdf)
+
+## Estrutura Analítica do Projeto (EAP)
+
+- [Estrutura Analítica do Projeto](04-monitoramento/artefatos/estrutura_analitica_do_projeto.pdf)
 
 ## Registro de Partes Interessadas
 
 > Você deve preencher o seguinte documento:
-- [Registro de Partes Interessadas](artefatos/registro-partes-interessadas.xlsx)
+- [Registro de Partes Interessadas]()
 
 ## Termo de Abertura do Projeto (TAP)
 
@@ -262,5 +265,4 @@ A tabela a seguir apresenta as restrições do projeto.
 > Ao delinear esses elementos de forma detalhada, o Termo de Abertura do Projeto (TAP) fornece uma direção sólida para orientar as atividades subsequentes, facilitando a gestão eficaz do projeto desde o início até o encerramento. 
 > Essa documentação garante a clareza, alinhamento e comprometimento de todos os envolvidos, contribuindo assim para o sucesso do projeto.
 
-> Você deve preencher o seguinte documento:
-> - [Termo de Abertura do Projeto](artefatos/termo-abertura-projeto.docx)
+> - [Termo de Abertura do Projeto]()
