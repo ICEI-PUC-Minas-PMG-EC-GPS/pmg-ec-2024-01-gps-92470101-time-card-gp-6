@@ -56,8 +56,6 @@
 
 ## Insights do repositório
 
-......  ATUALIZE AS IMAGENS MENSALMENTE ......
-
 > Os insights do repositório indicam a quantidade de commits realizados, quantidade de tarefas fechadas, problemas levantados no software, entre outras métricas.
 > Devem ser fornecidos insights mensais sobre o andamento do projeto (últimos 30 dias).
 
