@@ -140,7 +140,7 @@
 
 ## Plano de Riscos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+[Plano de Riscos](artefatos/plano_riscos.xlsx - Identificação dos Riscos.pdf)
 
 
 > O plano de riscos busca antecipar, avaliar e mitigar os desafios potenciais que podem surgir ao longo do projeto. 
