@@ -76,9 +76,26 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Paciente            | Monitorar meus batimentos cardíacos em tempo real          | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Paciente            | Monitorar meus batimentos cardíacos em tempo real | Acompanhar minha saúde de forma contínua |
+|Médico       | Acessar o histórico de batimentos cardíacos dos pacientes | Analisar tendências e ajustar tratamentos |
+|Paciente      | Receber alertas de anomalias cardíacas | Tomar ações preventivas em casos de emergência |
+|Cuidador       | Ser notificado se o paciente tiver anomalia cardíaca | Prestar assistência imediata ao paciente |
+|Administrador do Sistema | Configurar alertas personalizados para pacientes | Garantir que os alertas sejam relevantes |
+|Paciente       | Visualizar relatórios semanais dos meus batimentos | Entender melhor minha condição cardíaca |
+|Médico      |Configurar parâmetros de alerta para cada paciente               | Personalizar o monitoramento conforme a necessidade |
+|Paciente       |Compartilhar meus dados cardíacos com meu médico                | Facilitar o acompanhamento médico à distância |
+|Pesquisador       |Acessar dados anônimos dos pacientes              | Realizar estudos e pesquisas sobre saúde cardíaca |
+|Paciente      | Sincronizar os dados do sensor com o aplicativo móvel  | Manter os dados atualizados em todos os dispositivos |
+|Médico       | Receber alertas em tempo real de anomalias dos pacientes              | Intervir rapidamente em situações de risco |
+|Paciente      | Ver dicas de saúde com base nos meus dados cardíacos                | Melhorar minha saúde e bem-estar |
+|Administrador do Sistema      | Gerenciar os usuários e seus níveis de acesso  | Controlar a segurança e a privacidade dos dados |
+|Paciente       | Acessar meus dados mesmo sem conexão à internet    | Consultar meu histórico a qualquer momento |
+|Médico       | Agendar consultas com base nas anomalias detectadas              | Planejar intervenções de forma proativa |
+|Paciente      | Definir metas de saúde e acompanhar meu progresso                 | Manter a motivação e monitorar meu progresso |
+|Administrador do Sistema       | Realizar backup regular dos dados dos pacientes              | Evitar perda de informações importantes |
+|Paciente      | Receber notificações sobre a bateria do sensor        | Garantir que o sensor esteja sempre funcionando |
+|Médico      | Consultar relatórios gráficos dos dados dos pacientes        | Visualizar informações de forma mais compreensível |
+|Paciente     | Integrar os dados do sensor com outros apps de saúde        | Consolidar minhas informações de saúde em um único lugar |
 
 > Seguindo o modelo acima, apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. 
 > As Histórias de Usuário consistem em uma ferramenta importante para a compreensão e elicitação dos requisitos.
