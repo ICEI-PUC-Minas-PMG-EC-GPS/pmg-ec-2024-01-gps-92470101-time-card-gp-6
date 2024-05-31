@@ -70,8 +70,6 @@ realizar as especificações do projeto.
  
 ## Histórias de Usuários
 
-......  ATUALIZE AS HISTÓRIAS DE USUÁRIOS ABAIXO (MÍNIMO 20) ......
-
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
@@ -96,15 +94,6 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Paciente      | Receber notificações sobre a bateria do sensor        | Garantir que o sensor esteja sempre funcionando |
 |Médico      | Consultar relatórios gráficos dos dados dos pacientes        | Visualizar informações de forma mais compreensível |
 |Paciente     | Integrar os dados do sensor com outros apps de saúde        | Consolidar minhas informações de saúde em um único lugar |
-
-> Seguindo o modelo acima, apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. 
-> As Histórias de Usuário consistem em uma ferramenta importante para a compreensão e elicitação dos requisitos.
-> Defina atores (ou personas), se for o caso, um administrador para criação das histõrias de usuário.
-> As histórias de usuário posteriormente devem ser utilizadas para preenchimento dos Requisitos Funcionais.
->
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
 
 ## Requisitos Preliminares
 
