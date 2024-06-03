@@ -36,13 +36,13 @@
 O problema a ser solucionado pelo projeto de monitoramento cardíaco é o aumento significativo das doenças cardíacas e o risco crescente de ataques cardíacos na sociedade atual. Diversos fatores, como estilos de vida sedentários, dietas inadequadas e estresse, contribuem para o desenvolvimento de problemas cardíacos. Muitas vezes, as pessoas não estão cientes de condições cardíacas até que seja tarde demais.
 > O projeto visa abordar as seguintes questões:
 >  Detecção Precoce de Anomalias na Frequência Cardíaca:
->  Muitas condições cardíacas podem ser assintomáticas em estágios iniciais. O monitoramento contínuo da frequência cardíaca permite a detecção precoce de anomalias, possibilitando intervenções médicas antes que problemas mais graves ocorram.
+>  > Muitas condições cardíacas podem ser assintomáticas em estágios iniciais. O monitoramento contínuo da frequência cardíaca permite a detecção precoce de anomalias, possibilitando intervenções médicas antes que problemas mais graves ocorram.
 > Acesso Limitado a Monitoramento Contínuo:
-> As tecnologias tradicionais de monitoramento cardíaco geralmente estão disponíveis apenas em ambientes hospitalares. O projeto busca proporcionar às pessoas a capacidade de monitorar sua saúde cardíaca de forma contínua, mesmo no conforto de casa.
+> > As tecnologias tradicionais de monitoramento cardíaco geralmente estão disponíveis apenas em ambientes hospitalares. O projeto busca proporcionar às pessoas a capacidade de monitorar sua saúde cardíaca de forma contínua, mesmo no conforto de casa.
 > Resposta Rápida em Situações de Risco:
 > > Em casos de variações perigosas na frequência cardíaca, a intervenção médica rápida é crucial. O sistema proposto busca alertar imediatamente profissionais de saúde e familiares para que medidas adequadas possam ser tomadas.
 > Falta de Consciência e Educação sobre Saúde Cardíaca:
-> Muitas pessoas não têm consciência dos fatores de risco associados às doenças cardíacas e não adotam práticas preventivas. O projeto visa aumentar a conscientização e promover a educação sobre a importância do monitoramento cardíaco regular.
+> > Muitas pessoas não têm consciência dos fatores de risco associados às doenças cardíacas e não adotam práticas preventivas. O projeto visa aumentar a conscientização e promover a educação sobre a importância do monitoramento cardíaco regular.
 
 ## Objetivos
 
