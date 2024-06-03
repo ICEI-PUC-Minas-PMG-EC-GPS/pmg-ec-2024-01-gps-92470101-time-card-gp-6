@@ -40,10 +40,9 @@ O problema a ser solucionado pelo projeto de monitoramento cardíaco é o aument
 > Acesso Limitado a Monitoramento Contínuo:
 > As tecnologias tradicionais de monitoramento cardíaco geralmente estão disponíveis apenas em ambientes hospitalares. O projeto busca proporcionar às pessoas a capacidade de monitorar sua saúde cardíaca de forma contínua, mesmo no conforto de casa.
 > Resposta Rápida em Situações de Risco:
-> Em casos de variações perigosas na frequência cardíaca, a intervenção médica rápida é crucial. O sistema proposto busca alertar imediatamente profissionais de saúde e familiares para que medidas adequadas possam ser tomadas.
+> > Em casos de variações perigosas na frequência cardíaca, a intervenção médica rápida é crucial. O sistema proposto busca alertar imediatamente profissionais de saúde e familiares para que medidas adequadas possam ser tomadas.
 > Falta de Consciência e Educação sobre Saúde Cardíaca:
 > Muitas pessoas não têm consciência dos fatores de risco associados às doenças cardíacas e não adotam práticas preventivas. O projeto visa aumentar a conscientização e promover a educação sobre a importância do monitoramento cardíaco regular.
-
 
 ## Objetivos
 
