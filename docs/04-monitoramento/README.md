@@ -28,12 +28,6 @@
 > * [Template de Ata de Reunião](artefatos/template-ata-reuniao.docx)
 
 ## Atas de Reunião do Projeto
-
-......  ATUALIZE A LISTA DE ATAS DE REUNIÃO DO PROJETO ......
-
-> Atualize a lista de atas de reunião do projeto, com as atas entregues semanalmente na disciplina.
-> Mantenha um padrão de nomenclatura dos arquivos, utilizando as datas como referência.
-
 1. [2024-02-23 - Ata de Reunião](artefatos/ata-reuniao_2024-02-23.pdf)
 2. [2024-03-01 - Ata de Reunião](artefatos/ata-reuniao_2024-03-01.pdf)
 3. [2024-03-08 - Ata de Reunião](artefatos/ata-reuniao_2024-03-08.docx)
@@ -48,17 +42,8 @@
 
 # Relatórios de Desempenho
 
-> Os relatórios de desempenho fornecem uma visão do status e do progresso das atividades do projeto. 
-> Esses relatórios são ferramentas fundamentais para comunicar informações relevantes aos stakeholders, permitindo uma avaliação do desempenho em relação aos objetivos estabelecidos. 
-> Podem incluir dados sobre custos, prazos, qualidade e outros indicadores-chave, permitindo insights para a tomada de decisões. 
-> Além disso, eles facilitam a identificação precoce de possíveis desvios e a implementação de ações corretivas, contribuindo para a gestão proativa de riscos e a maximização da eficiência operacional. 
-> A transparência proporcionada pelos relatórios promove a confiança aos stakeholders, melhorando a comunicação
+> Os relatórios de desempenho fornecem  uma visão do status e do progresso das atividades do projeto realizado pelo grupo. 
 
-> Inclua nesta seção os relatórios de desempenho fornecidos pelo GitHub Project.
-> Os seguintes relatórios devem ser fornecidos:
-> * Insights do repositório.
-> * Burn-up do projeto.
-> * Relatório de tarefas concluídas, por aluno.
 
 ## Insights do repositório
 
@@ -69,13 +54,13 @@
 ![Insight - Mês Março](images/pulseMarch.png)
 
 **Insight - Mês Abril**
-> Adicione aqui insights do mês de Abril.
+![Insight - Mês Abril](images/pulseApril.png)
 
 **Insight - Mês Maio**
-> Adicione aqui insights do mês de Maio.
+![Insight - Mês Maio](images/pulseMay.png)
 
 **Insight - Mês Junho**
-> Adicione aqui insights do mês de Junho.
+![Insight - Mês Junho](images/pulseJune.png)
 
 ## Burn-up do projeto
 
