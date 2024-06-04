@@ -204,9 +204,9 @@ A tabela a seguir apresenta as restrições do projeto.
 
 # Metodologia
 
-Para manter a ordem foi-se utilizado de métodos ágeis, evitando modelo cascatas, para trazer uma maior interação com o cliente. Primeiramente foi realizada uma rígida divisão de papéis, evitando assim sobreposição de atividades por vários membros. O uso de ferramentas amplamente utilizadas no mercado, como Repositórios do GitHub, quadro Kambam, Microsoft word, Figma etc., foi um fator que agregou muito para a organização do projeto.
+Para manter a ordem e eficiência no projeto, utilizamos métodos ágeis, evitando o modelo em cascata, o que proporcionou uma maior interação com o cliente. Primeiramente, realizamos uma divisão clara de papéis, evitando a sobreposição de atividades entre os membros da equipe. A utilização de ferramentas amplamente adotadas no mercado, como repositórios do GitHub, quadros Kanban, Microsoft Word, Figma, entre outras, foi um fator crucial para a organização e sucesso do projeto.
 
-Para aplicação do framework Scrum foi feito o uso de equipe pequena (4 participantes) e localizados próximos geograficamente (Na mesma cidade), mirando comprometimento igualitário de todos integrante. A divisão em “Sprints” visando entregas semanais por todos os integrantes e reuniões rápidas (5 a 15 minutos) também foram realizadas.
+Para a aplicação do framework Scrum, formamos uma equipe pequena, composta por quatro participantes, todos localizados na mesma cidade, o que facilitou o comprometimento e colaboração igualitária de todos. Dividimos o trabalho em "sprints" semanais, garantindo entregas regulares de cada integrante. Além disso, realizamos reuniões rápidas diárias, com duração de 5 a 15 minutos, para alinhar o progresso e resolver eventuais impedimentos. Foi também realizado o backlog das sprints, assegurando que todas as tarefas necessárias fossem planejadas e executadas de acordo com as prioridades do projeto.
 
 
 > Nesta parte do documento, você deve apresentar a metodologia adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, a divisão de papéis e tarefas e as ferramentas empregadas.
