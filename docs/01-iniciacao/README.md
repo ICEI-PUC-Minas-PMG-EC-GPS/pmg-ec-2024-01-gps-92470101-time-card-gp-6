@@ -204,7 +204,10 @@ A tabela a seguir apresenta as restrições do projeto.
 
 # Metodologia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Para manter a ordem foi-se utilizado de métodos ágeis, evitando modelo cascatas, para trazer uma maior interação com o cliente. Primeiramente foi realizada uma rígida divisão de papéis, evitando assim sobreposição de atividades por vários membros. O uso de ferramentas amplamente utilizadas no mercado, como Repositórios do GitHub, quadro Kambam, Microsoft word, Figma etc., foi um fator que agregou muito para a organização do projeto.
+
+Para aplicação do framework Scrum foi feito o uso de equipe pequena (4 participantes) e localizados próximos geograficamente (Na mesma cidade), mirando comprometimento igualitário de todos integrante. A divisão em “Sprints” visando entregas semanais por todos os integrantes e reuniões rápidas (5 a 15 minutos) também foram realizadas.
+
 
 > Nesta parte do documento, você deve apresentar a metodologia adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, a divisão de papéis e tarefas e as ferramentas empregadas.
 >
