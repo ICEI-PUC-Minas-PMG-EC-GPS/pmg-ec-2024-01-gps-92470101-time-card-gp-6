@@ -97,8 +97,6 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 ## Requisitos Preliminares
 
 > Os requisitos preliminares fornecem uma visão inicial do escopo, funcionalidades-chave e as expectativas a serem atendidas. 
-> 
-> ***A quantidade mínima de requisitos a serem preenchidos nas seções abaixo não incluem os exemplos previamente fornecidos.***
 
 > Com base nas Histórias de Usuário, enumere os requisitos da sua
 > solução. Classifique esses requisitos em dois grupos:
@@ -130,8 +128,26 @@ A tabela a seguir apresenta os requisitos funcionais do projeto.
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|-------|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Permitir que o paciente visualize seus batimentos cardíacos em tempo real | ALTA | 
+|RF-002| Permitir que o médico acesse o histórico de batimentos cardíacos dos pacientes | ALTA |
+|RF-003| Enviar alertas de anomalias cardíacas ao paciente | ALTA |
+|RF-004| Notificar cuidadores em caso de anomalia cardíaca do paciente | ALTA |
+|RF-005| Configurar alertas personalizados para cada paciente | MÉDIA |
+|RF-006| Gerar relatórios semanais dos batimentos cardíacos dos pacientes | MÉDIA |
+|RF-007| Configurar parâmetros de alerta específicos para cada paciente | MÉDIA |
+|RF-008| Permitir que o paciente compartilhe seus dados cardíacos com o médico | ALTA |
+|RF-009| Permitir acesso a dados anônimos dos pacientes para pesquisas | BAIXA |
+|RF-010| Sincronizar dados do sensor com o aplicativo móvel | ALTA |
+|RF-011| Enviar alertas em tempo real ao médico sobre anomalias dos pacientes | ALTA |
+|RF-012| Fornecer dicas de saúde baseadas nos dados cardíacos do paciente | MÉDIA |
+|RF-013| Gerenciar usuários e seus níveis de acesso | ALTA |
+|RF-014| Acessar dados dos pacientes mesmo offline | MÉDIA |
+|RF-015 Agendar consultas com base nas anomalias detectadas | MÉDIA |
+|RF-016| Definir metas de saúde e acompanhar progresso do paciente | MÉDIA |
+|RF-017| Realizar backup regular dos dados dos pacientes | ALTA |
+|RF-018| Enviar notificações sobre o estado da bateria do sensor | ALTA |
+|RF-019| Gerar relatórios gráficos dos dados dos pacientes | MÉDIA |
+|RF-020| Integrar dados do sensor com outros aplicativos de saúde | BAIXA |
 
 ### Requisitos Não Funcionais
 
