@@ -200,28 +200,25 @@ Para manter a ordem e eficiência no projeto, utilizamos métodos ágeis, evitan
 Para a aplicação do framework Scrum, formamos uma equipe pequena, composta por quatro participantes, todos localizados na mesma cidade, o que facilitou o comprometimento e colaboração igualitária de todos. Dividimos o trabalho em "sprints" semanais, garantindo entregas regulares de cada integrante. Além disso, realizamos reuniões rápidas diárias, com duração de 5 a 15 minutos, para alinhar o progresso e resolver eventuais impedimentos. Foi também realizado o backlog das sprints, assegurando que todas as tarefas necessárias fossem planejadas e executadas de acordo com as prioridades do projeto.
 
 
-> Nesta parte do documento, você deve apresentar a metodologia adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, a divisão de papéis e tarefas e as ferramentas empregadas.
->
-> Coloque detalhes sobre o processo utilizado e a implementação do Framework Scrum seguido pelo grupo. 
-> O grupo deverá gerenciar as tarefas utilizando o GitHub Project para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
-> 
-> **Links Úteis**:
-> - [Github Project](https://docs.github.com/en/issues/planning-and-tracking-with-projects/creating-projects/creating-a-project)
-> - [O que é o GitHub Projects? | Guia de Iniciantes](https://www.youtube.com/watch?v=vxYTpsFKdiQ&ab_channel=JulioArruda)
-> - [Introduction to GitHub Project Boards](https://www.youtube.com/watch?v=idZyqNIrt84&list=PLiO7XHcmTslc5hGrbnnmHIb0SeJLTpOEu&ab_channel=MickeyGousset)
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
-
 ## Divisão de Papéis
 
 Seguindo o framework Scrum, os papéis foram divididos em três categorias: Scrum Master, Product Owner e time de desenvolvimento. Ana Beatriz assumiu a função de Scrum Master, sendo responsável por promover e suportar o Scrum conforme definido no Guia Scrum. Bárbara Sampaio, por sua vez, foi designada como Product Owner, encarregada de maximizar o valor do produto através da definição clara das suas características, além de gerenciar o backlog do produto. Finalmente, Rodrigo Rocha e Eron Arthur compõem o time de desenvolvimento, responsáveis por entregar incrementos do produto "Pronto" ao final de cada Sprint.
 
-> Apresente a divisão de papéis e tarefas entre os membros do grupo.
-> Indique as responsabilidades de cada membro do grupo no projeto.
 
 ## Ferramentas
 
-......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
+| Ambiente              | Plataforma         | Link de Acesso             | Justificativa |
+|-----------------------|--------------------|----------------------------|---------------|
+| Quadro Kanban         | Github             | https://github.com/orgs/ICEI-PUC-Minas-PMG-EC-GPS/projects/5/views/1 | Centralização e organização do projeto no próprio repositório. |
+| Repositório de código | GitHub             | https://github.com/XXXXXXX | Armazenamento de codigo collaboração conjunta|
+| Ferramentas de design da interface  | Canva  | https://canva.com  |  pre familiariedade do desenvolvedor|
+| Documentos Textuais   | Microsoft Word | N/A                        |  pre familiariedade do desenvolvedor|
+| Planilhas e Gráficos  | Google Planilhas   | https://docs.google.com/   |               |
+|IDE de desenvolvimento| Visual Studio Code  |                              |pre familiariedade do desenvolvedor |
+| distro da Linguagem de desenvolvimento     | Java development kit         | | |
+
+| Matriz RACI           | | | |
+| Matriz RACI           | | | |
 
 > Liste as ferramentas empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
 > Todas as ferramentas utilizadas devem ser listadas.
