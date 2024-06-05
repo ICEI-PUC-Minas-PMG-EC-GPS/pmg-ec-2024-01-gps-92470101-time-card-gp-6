@@ -218,23 +218,6 @@ Seguindo o framework Scrum, os papéis foram divididos em três categorias: Scru
 |Distro da Linguagem de desenvolvimento     | Java development kit         |N/A |Capacidade Multiplataforma |
 | Gerenciador de projeto | ProjectLibre | N/A  |Pre familiariedade do desenvolvedor|
 | Matriz RACI           | Canva  | https://canva.com | Pre familiariedade do desenvolvedor|
-
-> Liste as ferramentas empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
-> Todas as ferramentas utilizadas devem ser listadas.
-> Qualquer tipo de ferramenta que for utilizada para construção de um artefato deve ser identificada, uma vez que podem ser necessárias alterações.
-> A necessidade de uso de licenças e possíveis custos relacionados devem ser indicados.
-
-| Ambiente              | Plataforma         | Link de Acesso             | Justificativa |
-|-----------------------|--------------------|----------------------------|---------------|
-| Quadro Kanban         | Github             | https://github.com/orgs/ICEI-PUC-Minas-PMG-EC-GPS/projects/5/views/1 | Centralização e organização do projeto no próprio repositório. |
-| Repositório de código | GitHub             | https://github.com/XXXXXXX |               |
-| Protótipo Interativo  | MavelApp ou Figma  | https://figma.com/XXXXXXX  |               |
-| Documentos Textuais   | LibreOffice Writer | N/A                        |               |
-| Planilhas e Gráficos  | Google Planilhas   | https://docs.google.com/   |               |
-| EAP / WBS             | Miro | [Clique para acessar](artefatos/estrutura_analitica_do_projeto.pdf) | |
-| Cronograma do Projeto | | | |
-| Matriz RACI           | | | |
-
 # Documentos
 
 > Esta seção deve ser utilizada para armazenamento e listagem dos documentos e artefatos produzidos durante as aulas.
