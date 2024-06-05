@@ -165,12 +165,12 @@
 ## Aquisição de Produtos
 
 > Você deve preencher o seguinte documento:
-- [Declaração de Escopo](artefatos/aquisicao_produtos.docx)
+- [Declaração de Escopo](artefatos/Declaracao de escopo.pdf)
 
 ## Checklist de Qualidade
 
 > Você deve preencher o seguinte documento:
-- [Checklist de Qualidade](artefatos/checklist_qualidade.docx)
+- [Checklist de Qualidade](artefatos/checklist_qualidade.pdf)
 
 ## Escopo, Cronograma e Orçamento
 
@@ -180,12 +180,12 @@
 ## Estrutura Analítica do Projeto (EAP)
 
 > Você deve preencher o seguinte documento:
-- [Estrutura Analítica do Projeto](artefatos/estrutura_analitica_projeto.wbs)
+- [Estrutura Analítica do Projeto](artefatos/estrutura_analitica_projeto.pdf)
 
 ## Matriz de Responsabilidades (RACI)
 
 > Você deve preencher o seguinte documento:
-- [Declaração de Escopo](artefatos/declaracao-escopo.docx)
+- [Matriz de Responsabilidades (RACI)](artefatos/matriz-RACI.pdf)
 
 ## Plano de Gerenciamento de Comunicação
 
