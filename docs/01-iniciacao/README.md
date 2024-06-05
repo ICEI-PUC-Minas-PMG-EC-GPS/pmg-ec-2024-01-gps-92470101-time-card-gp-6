@@ -203,7 +203,7 @@ A tabela a seguir apresenta as restrições do projeto.
 
 ## Estimativa de Custo
 
-> Aqui apresentamos a analise de estimativa de custo, visando o melhor desempenho do nosso produto
+> Este documento apresenta a análise detalhada da estimativa de custo e prazo para o desenvolvimento do nosso projeto. O objetivo é garantir o melhor desempenho do produto através de um planejamento eficiente e execução controlada. O projeto é dividido em quatro fases principais: Iniciação, Planejamento, Execução e Encerramento, cada uma com suas respectivas tarefas, duração, recursos envolvidos e custos estimados. Através desse detalhamento, buscamos otimizar o desempenho e assegurar a entrega de um produto de alta qualidade dentro do prazo e orçamento estipulados.
 ## Fases do Projeto
 
 ### 1. Iniciação
