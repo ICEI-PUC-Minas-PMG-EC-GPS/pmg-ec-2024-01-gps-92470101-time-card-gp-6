@@ -206,11 +206,6 @@ A tabela a seguir apresenta as restrições do projeto.
 ## Estimativa de Custo
 
 > Aqui apresentamos a analise de estimativa de custo, visando o melhor desempenho do nosso produto
-# Projeto de Desenvolvimento de Software
-
-## Descrição do Projeto
-Este projeto abrange a criação de um sistema de software seguindo uma metodologia estruturada e dividida em fases. O objetivo é entregar um produto funcional ao final de um processo de desenvolvimento que inclui iniciação, planejamento, execução e encerramento.
-
 ## Fases do Projeto
 
 ### 1. Iniciação
