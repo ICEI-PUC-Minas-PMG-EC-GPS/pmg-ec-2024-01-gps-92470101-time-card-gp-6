@@ -247,7 +247,7 @@ Seguindo o framework Scrum, os papéis foram divididos em três categorias: Scru
 ## Registro de Partes Interessadas
 
 > Você deve preencher o seguinte documento:
-- [Registro de Partes Interessadas]()
+- [Registro de Partes Interessadas](artefatos/Grupo6-Partes-Interessadas-1.xlsx)
 
 ## Termo de Abertura do Projeto (TAP)
 
