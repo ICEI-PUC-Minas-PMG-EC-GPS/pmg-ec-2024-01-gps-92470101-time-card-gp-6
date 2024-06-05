@@ -211,14 +211,13 @@ Seguindo o framework Scrum, os papéis foram divididos em três categorias: Scru
 |-----------------------|--------------------|----------------------------|---------------|
 | Quadro Kanban         | Github             | https://github.com/orgs/ICEI-PUC-Minas-PMG-EC-GPS/projects/5/views/1 | Centralização e organização do projeto no próprio repositório. |
 | Repositório de código | GitHub             | https://github.com/XXXXXXX | Armazenamento de codigo collaboração conjunta|
-| Ferramentas de design da interface  | Canva  | https://canva.com  |  pre familiariedade do desenvolvedor|
-| Documentos Textuais   | Microsoft Word | N/A                        |  pre familiariedade do desenvolvedor|
+| Ferramentas de design da interface  | Canva  | https://canva.com  |  Pre familiariedade do desenvolvedor|
+| Documentos Textuais   | Microsoft Word | N/A                        |  Pre familiariedade do desenvolvedor|
 | Planilhas e Gráficos  | Google Planilhas   | https://docs.google.com/   |               |
-|IDE de desenvolvimento| Visual Studio Code  |                              |pre familiariedade do desenvolvedor |
-| distro da Linguagem de desenvolvimento     | Java development kit         | | |
-
-| Matriz RACI           | | | |
-| Matriz RACI           | | | |
+|IDE de desenvolvimento| Visual Studio Code  |                              |Pre familiariedade do desenvolvedor |
+|Distro da Linguagem de desenvolvimento     | Java development kit         | |Capacidade Multiplataforma |
+| Gerenciador de projeto | ProjectLibre | N/A  | pre familiariedade do desenvolvedor|
+| Matriz RACI           | Canva  | https://canva.com | Pre familiariedade do desenvolvedor|
 
 > Liste as ferramentas empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
 > Todas as ferramentas utilizadas devem ser listadas.
