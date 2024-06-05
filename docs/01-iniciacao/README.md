@@ -151,26 +151,28 @@ A tabela a seguir apresenta os requisitos funcionais do projeto.
 
 ### Requisitos Não Funcionais
 
-......  ATUALIZE OS REQUISITOS NÃO FUNCIONAIS DO SISTEMA (MÍNIMO 5) ......
-
 A tabela a seguir apresenta os requisitos não funcionais do projeto. 
 
 |ID     | Descrição do Requisito                                            |Prioridade |
 |-------|-------------------------------------------------------------------|-----------|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA     | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s             | BAIXA     | 
+|RNF-001| O sistema deve ser responsivo para rodar em dispositivos móveis | ALTA        | 
+|RNF-002| Deve processar requisições do usuário em no máximo 10 segundos       | MÉDIA  | 
+|RNF-003|	Garantir a segurança e privacidade dos dados dos pacientes	|ALTA|
+|RNF-004|	O sistema deve ser capaz de operar 24/7 sem interrupções	|ALTA|
+|RNF-005|	Deve ser compatível com os principais sistemas operacionais (iOS, Android, Windows)	|MÉDIA|
 
 
 ### Restrições
-
-......  ATUALIZE AS RESTRIÇÕES DO SISTEMA (MÍNIMO 5) ......
 
 A tabela a seguir apresenta as restrições do projeto. 
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|-------|
-|RE-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RE-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RE-001|	O sistema deve seguir as regulamentações de saúde e privacidade, como HIPAA ou LGPD|	ALTA|
+|RE-002|	O sistema deve ser compatível com os sensores cardíacos aprovados	|ALTA|
+|RE-003|	O acesso aos dados deve ser restrito apenas a usuários autorizados	|ALTA|
+|RE-004|	A manutenção do sistema deve ser possível sem afetar a coleta de dados	|MÉDIA|
+|RE-005|	Os dados armazenados devem ser criptografados	|ALTA|
 
 # Partes Interessadas
 
