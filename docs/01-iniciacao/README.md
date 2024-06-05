@@ -142,7 +142,7 @@ A tabela a seguir apresenta os requisitos funcionais do projeto.
 |RF-012| Fornecer dicas de saúde baseadas nos dados cardíacos do paciente | MÉDIA |
 |RF-013| Gerenciar usuários e seus níveis de acesso | ALTA |
 |RF-014| Acessar dados dos pacientes mesmo offline | MÉDIA |
-|RF-015 Agendar consultas com base nas anomalias detectadas | MÉDIA |
+|RF-015| Agendar consultas com base nas anomalias detectadas | MÉDIA |
 |RF-016| Definir metas de saúde e acompanhar progresso do paciente | MÉDIA |
 |RF-017| Realizar backup regular dos dados dos pacientes | ALTA |
 |RF-018| Enviar notificações sobre o estado da bateria do sensor | ALTA |
