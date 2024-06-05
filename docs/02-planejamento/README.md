@@ -175,7 +175,8 @@
 ## Escopo, Cronograma e Orçamento
 
 > Você deve preencher o seguinte documento:
-- [Declaracao de escopo](artefatos/Declaracao de escopo.pdf)
+- [Declaracao_escopo](artefatos/Declaracao_escopo.pdf)
+- [cronograma](artefatos/cronograma.pod)
 
 ## Estrutura Analítica do Projeto (EAP)
 
