@@ -214,7 +214,7 @@ Para a aplicação do framework Scrum, formamos uma equipe pequena, composta por
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Seguindo o framework Scrum, os papéis foram divididos em três categorias: Scrum Master, Product Owner e time de desenvolvimento. Ana Beatriz assumiu a função de Scrum Master, sendo responsável por promover e suportar o Scrum conforme definido no Guia Scrum. Bárbara Sampaio, por sua vez, foi designada como Product Owner, encarregada de maximizar o valor do produto através da definição clara das suas características, além de gerenciar o backlog do produto. Finalmente, Rodrigo Rocha e Eron Arthur compõem o time de desenvolvimento, responsáveis por entregar incrementos do produto "Pronto" ao final de cada Sprint.
 
 > Apresente a divisão de papéis e tarefas entre os membros do grupo.
 > Indique as responsabilidades de cada membro do grupo no projeto.
