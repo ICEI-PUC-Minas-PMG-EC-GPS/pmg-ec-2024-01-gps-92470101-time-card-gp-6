@@ -217,7 +217,7 @@ Seguindo o framework Scrum, os papéis foram divididos em três categorias: Scru
 |IDE de desenvolvimento| Visual Studio Code  |   N/A                     |Pre familiariedade do desenvolvedor |
 |Distro da Linguagem de desenvolvimento     | Java development kit         |N/A |Capacidade Multiplataforma |
 | Gerenciador de projeto | ProjectLibre | N/A  |Pre familiariedade do desenvolvedor|
-| Diagramas | DrawIO | [N/A](https://app.diagrams.net)  |Pre familiariedade do desenvolvedor|
+| Diagramas | DrawIO |https://app.diagrams.net  |Pre familiariedade do desenvolvedor|
 
 # Documentos
 
