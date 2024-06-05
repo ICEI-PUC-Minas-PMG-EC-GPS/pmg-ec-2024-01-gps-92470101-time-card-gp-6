@@ -54,18 +54,37 @@ Enviar um alerta ao identificar frequência cardíaca irregular para o usuário.
  
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para
-realizar as especificações do projeto.
+Nesta seção, serão apresentadas as especificações detalhadas do projeto de monitoramento cardíaco. O objetivo é fornecer uma descrição clara e completa dos componentes e funcionalidades do sistema, além de definir os critérios de sucesso e as métricas que serão utilizadas para avaliar o êxito do projeto. As especificações abordarão tanto os aspectos funcionais quanto não funcionais do sistema, assim como as restrições e requisitos técnicos necessários para garantir o desempenho adequado e a satisfação dos usuários finais. Para a realização do mesmo, foi utilizado as referências indicadas.
 
 ## Critérios de Sucesso
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Os critérios de sucesso de um projeto fornecem uma estrutura clara para avaliar o êxito do trabalho e analisar se o projeto realmente alcançou os objetivos estabelecidos. Os critérios de sucesso para o projeto de monitoramento cardíaco incluem:
 
-> Os critérios de sucesso de um projeto fornecem uma estrutura clara para avaliar o êxito do trabalho e analisar se o projeto realmente alcançou os objetivos estabelecidos. 
-> Esses critérios geralmente abrangem diversas dimensões, incluindo a entrega dentro do prazo e orçamento estipulados, a satisfação do cliente, a qualidade do produto ou serviço final, e a eficiência na utilização de recursos. 
-> Além disso, a capacidade de atender aos requisitos e expectativas das partes interessadas, bem como a gestão eficaz de riscos, são considerados aspectos importantes para determinar o sucesso de um projeto. 
+<details><summary>1 - Entrega Dentro do Prazo e Orçamento Estipulados</summary>
+    <p>
+        <table>
+            <tbody>
+                <tr>
+                    <th style="width: 25%;">
+                        Prazo
+                    </th>
+                    <td>
+                        O projeto deve ser concluído dentro do cronograma estabelecido, com todas as entregas realizadas nos prazos definidos. 
+                    </td>
+                </tr>
+                <tr>
+                    <th style="width: 25%;">
+                        Orçamento
+                    </th>
+                    <td>
+                        O custo total do projeto deve permanecer dentro dos limites orçamentários acordados, sem exceder os recursos financeiros disponíveis.
+                    </td>
+                </tr>
+
+            </tbody>
+        </table>
+    </p>
+</details>
  
 ## Histórias de Usuários
 
@@ -121,8 +140,6 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 
 ### Requisitos Funcionais
-
-......  ATUALIZE OS REQUISITOS FUNCIONAIS DO SISTEMA (MÍNIMO 20) ......
 
 A tabela a seguir apresenta os requisitos funcionais do projeto. 
 
