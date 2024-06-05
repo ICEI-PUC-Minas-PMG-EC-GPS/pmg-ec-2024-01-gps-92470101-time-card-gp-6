@@ -60,31 +60,7 @@ Nesta seção, serão apresentadas as especificações detalhadas do projeto de 
 
 Os critérios de sucesso de um projeto fornecem uma estrutura clara para avaliar o êxito do trabalho e analisar se o projeto realmente alcançou os objetivos estabelecidos. Os critérios de sucesso para o projeto de monitoramento cardíaco incluem:
 
-<details><summary>1 - Entrega Dentro do Prazo e Orçamento Estipulados</summary>
-    <p>
-        <table>
-            <tbody>
-                <tr>
-                    <th style="width: 25%;">
-                        Prazo
-                    </th>
-                    <td>
-                        O projeto deve ser concluído dentro do cronograma estabelecido, com todas as entregas realizadas nos prazos definidos. 
-                    </td>
-                </tr>
-                <tr>
-                    <th style="width: 25%;">
-                        Orçamento
-                    </th>
-                    <td>
-                        O custo total do projeto deve permanecer dentro dos limites orçamentários acordados, sem exceder os recursos financeiros disponíveis.
-                    </td>
-                </tr>
 
-            </tbody>
-        </table>
-    </p>
-</details>
  
 ## Histórias de Usuários
 
