@@ -62,28 +62,28 @@ Os critérios de sucesso de um projeto fornecem uma estrutura clara para avaliar
 
 Os critérios de sucesso de um projeto fornecem uma estrutura clara para avaliar o êxito do trabalho e analisar se o projeto realmente alcançou os objetivos estabelecidos. Os critérios de sucesso para o projeto de monitoramento cardíaco incluem:
 
-### Entrega Dentro do Prazo e Orçamento Estipulados
+**Entrega Dentro do Prazo e Orçamento Estipulados**
 * Prazo: O projeto deve ser concluído dentro do cronograma estabelecido, com todas as entregas realizadas nos prazos definidos.
 * Orçamento: O custo total do projeto deve permanecer dentro dos limites orçamentários acordados, sem exceder os recursos financeiros disponíveis.
 
-### Satisfação do Cliente
+**Satisfação do Cliente**
 * Feedback dos Usuários: A satisfação dos pacientes, médicos, cuidadores e outras partes interessadas deve ser avaliada por meio de pesquisas e feedback direto, visando atingir um alto nível de aprovação.
 * Aderência aos Requisitos: O sistema deve atender a todos os requisitos funcionais e não funcionais definidos, proporcionando a funcionalidade e o desempenho esperados.
 
-### Qualidade do Produto
+**Qualidade do Produto**
 * Confiabilidade: O sistema deve operar de forma consistente e sem falhas, garantindo a precisão dos dados coletados e a confiabilidade dos alertas emitidos.
 * Usabilidade: A interface do usuário deve ser intuitiva e fácil de usar, proporcionando uma experiência positiva para todos os usuários do sistema.
 Segurança: Os dados dos pacientes devem ser protegidos contra acesso não autorizado e violações de privacidade.
 
-### Eficiência na Utilização de Recursos
+**Eficiência na Utilização de Recursos**
 * Desempenho: O sistema deve processar dados e responder a requisições de forma rápida, sem causar atrasos significativos na operação.
 * Escalabilidade: A arquitetura do sistema deve permitir a adição de novos usuários e dispositivos sem comprometer o desempenho.
 
-### Atender aos Requisitos e Expectativas das Partes Interessadas
+**Atender aos Requisitos e Expectativas das Partes Interessadas**
 * Personalização: O sistema deve permitir a configuração de alertas e relatórios personalizados para atender às necessidades específicas de cada usuário.
 * Acessibilidade: O sistema deve ser acessível a partir de diversos dispositivos (desktop, mobile) e plataformas (iOS, Android).
 
-### Gestão Eficaz de Riscos
+**Gestão Eficaz de Riscos**
 * Mitigação de Riscos: Identificação e mitigação de riscos potenciais ao longo do ciclo de vida do projeto, com planos de contingência bem definidos.
 * Monitoramento Contínuo: Monitoramento contínuo do desempenho e segurança do sistema, com atualizações e melhorias implementadas conforme necessário.
 
