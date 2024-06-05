@@ -210,13 +210,14 @@ Seguindo o framework Scrum, os papéis foram divididos em três categorias: Scru
 | Ambiente              | Plataforma         | Link de Acesso             | Justificativa |
 |-----------------------|--------------------|----------------------------|---------------|
 | Quadro Kanban         | Github             | https://github.com/orgs/ICEI-PUC-Minas-PMG-EC-GPS/projects/5/views/1 | Centralização e organização do projeto no próprio repositório. |
-| Repositório de código | GitHub             | https://github.com/XXXXXXX | Armazenamento de codigo collaboração conjunta|
+| Repositório de código | GitHub             | [https://github.com/XXXXXXX](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-time-card-gp-6) | Armazenamento de codigo collaboração conjunta|
 | Ferramentas de design da interface  | Canva  | https://canva.com  |  Pre familiariedade do desenvolvedor|
 | Documentos Textuais   | Microsoft Word | N/A                        |  Pre familiariedade do desenvolvedor|
 | Planilhas e Gráficos  | Google Planilhas   | https://docs.google.com/   |               |
 |IDE de desenvolvimento| Visual Studio Code  |   N/A                     |Pre familiariedade do desenvolvedor |
 |Distro da Linguagem de desenvolvimento     | Java development kit         |N/A |Capacidade Multiplataforma |
 | Gerenciador de projeto | ProjectLibre | N/A  |Pre familiariedade do desenvolvedor|
+| Diagramas | DrawIO | [N/A](https://app.diagrams.net)  |Pre familiariedade do desenvolvedor|
 
 # Documentos
 
