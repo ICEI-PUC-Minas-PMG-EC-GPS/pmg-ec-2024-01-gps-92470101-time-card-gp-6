@@ -206,29 +206,91 @@ A tabela a seguir apresenta as restrições do projeto.
 ## Estimativa de Custo
 
 > Aqui apresentamos a analise de estimativa de custo, visando o melhor desempenho do nosso produto
+# Projeto de Desenvolvimento de Software
 
-......  ATUALIZE OS ITENS DE CUSTO DO SISTEMA. ADICIONE NOVOS OU SUBDIVIDA ITENS, CASO NECESSÁRIO ......
+## Descrição do Projeto
+Este projeto abrange a criação de um sistema de software seguindo uma metodologia estruturada e dividida em fases. O objetivo é entregar um produto funcional ao final de um processo de desenvolvimento que inclui iniciação, planejamento, execução e encerramento.
 
-| Item de Custo           | Descrição | Qtd. horas | Valor / hora | Valor total |
-|-------------------------|-----------|------------|--------------|-------------|
-| Recursos Humanos        |           |            |              |             |
-| Hardware                |           |            |              |             |
-| Serviços de Rede        |           |            |              |             |
-| Hospedagem e Nuvem      |           |            |              |             |
-| Software de terceiros   |           |            |              |             |
-| Serviços e treinamento  |           |            |              |             |
-| **Total Geral**         |           |            |              |             |
+## Fases do Projeto
+
+### 1. Iniciação
+
+| Tarefa | Duração | Período | Recursos | Custo |
+|--------|---------|---------|----------|-------|
+| Problemas e Objetivos | 5 dias | 01/03/24 - 07/03/24 | Ana Beatriz Santos de Oliveira | R$ 8.000,00 |
+| Especificações do Projeto | 4 dias | 01/03/24 - 06/03/24 | Eron Arthur Da Silva | R$ 1.920,00 |
+| Estimativa de Custo e Prazo | 6 dias | 07/03/24 - 14/03/24 | Rodrigo Albuquerque Rocha | R$ 2.880,00 |
+| Metodologia | 3 dias | 08/03/24 - 12/03/24 | Ana Beatriz Santos de Oliveira | R$ 4.800,00 |
+| Levantamento de Requisitos | 6 dias | 15/03/24 - 22/03/24 | Rodrigo Albuquerque Rocha | R$ 2.880,00 |
+| Escolha da Linguagem de Programação | 5 dias | 25/03/24 - 29/03/24 | Eron Arthur Da Silva, Rodrigo Albuquerque Rocha | R$ 4.800,00 |
+| Partes Interessadas | 4 dias | 01/03/24 - 06/03/24 | Eron Arthur Da Silva | R$ 1.920,00 |
+
+### 2. Planejamento
+
+| Tarefa | Duração | Período | Recursos | Custo |
+|--------|---------|---------|----------|-------|
+| Estrutura Analítica do Projeto | 3 dias | 01/04/24 - 03/04/24 | Ana Beatriz Santos de Oliveira | R$ 4.800,00 |
+| Matriz de Responsabilidades | 3 dias | 04/04/24 - 08/04/24 | Ana Beatriz Santos de Oliveira | R$ 4.800,00 |
+| Escopo do Projeto | 3 dias | 09/04/24 - 11/04/24 | Ana Beatriz Santos de Oliveira | R$ 4.800,00 |
+| Orçamento do Projeto | 6 dias | 10/04/24 - 17/04/24 | Ana Beatriz Santos de Oliveira | R$ 9.600,00 |
+| Requerimento de Materiais | 4 dias | 17/04/24 - 22/04/24 | Ana Beatriz Santos de Oliveira | R$ 6.400,00 |
+| Design do Protótipo | 8 dias | 17/04/24 - 26/04/24 | Ana Beatriz Santos de Oliveira | R$ 12.800,00 |
+| Planos de Gerenciamento | 10 dias | 15/04/24 - 26/04/24 | Ana Beatriz Santos de Oliveira | R$ 16.000,00 |
+
+### 3. Execução
+
+| Tarefa | Duração | Período | Recursos | Custo |
+|--------|---------|---------|----------|-------|
+| Interfaces do Sistema | 6 dias | 29/04/24 - 06/05/24 | Bárbara Maria Sampaio Portes | R$ 4.320,00 |
+| Desenvolvimento Front-End | 17 dias | 07/05/24 - 29/05/24 | Rodrigo Albuquerque Rocha | R$ 8.160,00 |
+| Desenvolvimento Back-End | 17 dias | 07/05/24 - 29/05/24 | Eron Arthur Da Silva, Bárbara Maria Sampaio Portes | R$ 20.400,00 |
+| Integração | 5 dias | 30/05/24 - 05/06/24 | Eron Arthur Da Silva, Bárbara Maria Sampaio Portes | R$ 6.400,00 |
+| Prototipagem com Hardware | 9 dias | 13/05/24 - 23/05/24 | Bárbara Maria Sampaio Portes | R$ 6.480,00 |
+| Modelagem da Solução | 5 dias | 21/05/24 - 27/05/24 | Bárbara Maria Sampaio Portes, Eron Arthur Da Silva | R$ 8.200,00 |
+| Teste de Estabilidade do Banco de Dados | 4 dias | 28/05/24 - 31/05/24 | Ana Beatriz Santos de Oliveira, Bárbara Maria Sampaio Portes | R$ 9.280,00 |
+| Otimização em Múltiplos Dispositivos | 5 dias | 03/06/24 - 07/06/24 | Eron Arthur Da Silva, Bárbara Maria Sampaio Portes | R$ 8.200,00 |
+
+### 4. Encerramento
+
+| Tarefa | Duração | Período | Recursos | Custo |
+|--------|---------|---------|----------|-------|
+| Projeto de Lançamento | 5 dias | 10/06/24 - 14/06/24 | Ana Beatriz Santos de Oliveira | R$ 8.000,00 |
+| Testes de Mercado | 3 dias | 14/06/24 - 18/06/24 | Eron Arthur Da Silva | R$ 1.440,00 |
+| Produção | 8 dias | 10/06/24 - 19/06/24 | Eron Arthur Da Silva | R$ 3.840,00 |
+| Marketing e Publicidade | 11 dias | 14/06/24 - 28/06/24 | Ana Beatriz Santos de Oliveira | R$ 17.600,00 |
+| Lançamento | 2 dias | 26/06/24 - 27/06/24 | Ana Beatriz Santos de Oliveira | R$ 3.200,00 |
+| Suporte ao Cliente | 3 dias | 26/06/24 - 28/06/24 | Eron Arthur Da Silva, Rodrigo Albuquerque Rocha | R$ 2.880,00 |
+| Monitoramento Pós-Lançamento | 2 dias | 27/06/24 - 28/06/24 | Bárbara Maria Sampaio Portes, Rodrigo Albuquerque Rocha | R$ 2.400,00 |
+
+
 
 
 ## Estimativa de Prazo
-> A estimativa de prazo orienta tanto o cliente quanto a equipe de desenvolvimento do projeto em termos do tempo necessário para a conclusão do projeto como um todo. 
-> Esta estimativa possibilita a criação de um cronograma realista e viável, permitindo o planejamento adequado das fases do projeto, alocação de recursos de maneira eficiente e antecipação de eventuais desafios.
-> Uma estimativa precisa orienta a execução do projeto, contribui para a gestão de expectativas e para o estabelecimento de metas alcançáveis.
 
-> Indique:
-> * 
-> * Data de início
-> * Data de término
+### 1. Iniciação
+- **Duração:** 21 dias
+- **Período:** 01/03/24 08:00 - 29/03/24 17:00
+- **Custo Total:** R$ 27.200,00
+
+  
+### 2. Planejamento
+- **Duração:** 20 dias
+- **Período:** 01/04/24 08:00 - 26/04/24 17:00
+- **Custo Total:** R$ 59.200,00
+
+### 3. Execução
+- **Duração:** 30 dias
+- **Período:** 29/04/24 08:00 - 07/06/24 17:00
+- **Custo Total:** R$ 71.440,00
+
+### 4. Encerramento
+- **Duração:** 15 dias
+- **Período:** 10/06/24 08:00 - 28/06/24 17:00
+- **Custo Total:** R$ 39.360,00
+
+## Custo Total do Projeto
+R$ 197.200,00
+
 
 # Metodologia
 
