@@ -214,9 +214,9 @@ Seguindo o framework Scrum, os papéis foram divididos em três categorias: Scru
 | Ferramentas de design da interface  | Canva  | https://canva.com  |  Pre familiariedade do desenvolvedor|
 | Documentos Textuais   | Microsoft Word | N/A                        |  Pre familiariedade do desenvolvedor|
 | Planilhas e Gráficos  | Google Planilhas   | https://docs.google.com/   |               |
-|IDE de desenvolvimento| Visual Studio Code  |                              |Pre familiariedade do desenvolvedor |
-|Distro da Linguagem de desenvolvimento     | Java development kit         | |Capacidade Multiplataforma |
-| Gerenciador de projeto | ProjectLibre | N/A  | pre familiariedade do desenvolvedor|
+|IDE de desenvolvimento| Visual Studio Code  |   N/A                     |Pre familiariedade do desenvolvedor |
+|Distro da Linguagem de desenvolvimento     | Java development kit         |N/A |Capacidade Multiplataforma |
+| Gerenciador de projeto | ProjectLibre | N/A  |Pre familiariedade do desenvolvedor|
 | Matriz RACI           | Canva  | https://canva.com | Pre familiariedade do desenvolvedor|
 
 > Liste as ferramentas empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
