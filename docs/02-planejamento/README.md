@@ -190,9 +190,9 @@
 ## Plano de Gerenciamento de Comunicação
 
 > Você deve preencher o seguinte documento:
-- [Plano de Gerenciamento de Comunicação](artefatos/plano_comunicacao.docx)
+- [Plano de Gerenciamento de Comunicação](artefatos/plano_comunicacao.pdf)
 
 ## Plano de Gerenciamento de Riscos
 
 > Você deve preencher o seguinte documento:
-- [Plano de Gerenciamento de Riscos](artefatos/plano_riscos.docx)
+- [Plano de Gerenciamento de Riscos](artefatos/plano_riscos.pdf)
