@@ -70,37 +70,30 @@ O plano de aquisição abrange desde itens físicos para protótipos até licen�
 
 ## Aquisição de Produtos
 
-> Você deve preencher o seguinte documento:
 - [Aquisição de Produtos](artefatos/solicitacao-compra.pdf)
 
 ## Checklist de Qualidade
 
-> Você deve preencher o seguinte documento:
 - [Checklist de Qualidade](artefatos/checklist_qualidade.pdf)
 
 ## Escopo, Cronograma e Orçamento
 
-> Você deve preencher o seguinte documento:
-- [Declaracao_escopo](artefatos/Declaracao_escopo.pdf)
+- [Declaracao escopo](artefatos/Declaracao_escopo.pdf)
 - [cronograma](artefatos/cronograma.pod)
 - [Orçamento](artefatos/Orçamento.pod)
 
 ## Estrutura Analítica do Projeto (EAP)
 
-> Você deve preencher o seguinte documento:
 - [Estrutura Analítica do Projeto](artefatos/EAP.png)
 
 ## Matriz de Responsabilidades (RACI)
 
-> Você deve preencher o seguinte documento:
 - [Matriz de Responsabilidades (RACI)](artefatos/matriz-RACI.pdf)
 
 ## Plano de Gerenciamento de Comunicação
 
-> Você deve preencher o seguinte documento:
 - [Plano de Gerenciamento de Comunicação](artefatos/plano_comunicacao.pdf)
 
 ## Plano de Gerenciamento de Riscos
 
-> Você deve preencher o seguinte documento:
 - [Plano de Gerenciamento de Riscos](artefatos/plano_riscos.pdf)
