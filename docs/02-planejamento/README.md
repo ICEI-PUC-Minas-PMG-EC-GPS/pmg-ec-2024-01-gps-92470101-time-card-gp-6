@@ -58,47 +58,13 @@ Feito no software ProjectLibre, o cronograma foi dividido em três principais et
 
 # Planos de Gerenciamento
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Os planos de gerenciamento do projetos consolidam as diretrizes e estratégias para a execução bem-sucedida de um empreendimento. 
-> Ele abrange diversos aspectos, como escopo, cronograma, custos, riscos, qualidade, recursos humanos, comunicação e aquisições, proporcionando uma visão abrangente e integrada do projeto. 
-> Este plano funciona como um guia mestre que orienta a equipe de projeto e as partes interessadas ao longo do ciclo de vida do projeto, estabelecendo expectativas, responsabilidades e processos. 
-> Além disso, serve como um instrumento de comunicação, alinhando as expectativas entre os membros da equipe e as partes interessadas, mitigando riscos e fornecendo uma estrutura sólida para a tomada de decisões. 
-
 ## Plano de Comunicação
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> O Plano de Comunicação estabelece estratégias e diretrizes para facilitar a troca de informações entre os membros da equipe e as partes interessadas. 
-> Este plano abrange aspectos como os meios de comunicação, a frequência das atualizações, os canais de distribuição de informações e os responsáveis pela comunicação. 
-> Uma comunicação eficiente não apenas previne mal-entendidos e conflitos, mas também fortalece o engajamento da equipe e o apoio das partes interessadas. 
+O plano de comunicação foi composto por reuniões diárias, semanais e quinzenais previamente agendadas, além de reuniões emergenciais que ocorrem sempre que há mudanças significativas no projeto ou após a conclusão de grandes tarefas. Os principais meios utilizados para as reuniões foram Microsoft Teams e GitHub, com o uso de grupos no WhatsApp como canal de distribuição de informações.
 
 ## Plano de Qualidade
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> O Plano de Qualidade auxilia a garantir que as entregas do projeto atendam aos padrões de qualidade definidos. 
-> Este plano abrange atividades como definição de padrões, procedimentos de garantia de qualidade, critérios de aceitação e processos de monitoramento e controle da qualidade ao longo do ciclo de vida do projeto. 
-> Ao identificar metas de qualidade, responsabilidades da equipe, e métricas de avaliação, o Plano de Qualidade busca assegurar que o projeto atinja ou exceda as expectativas dos stakeholders em termos de desempenho e conformidade. 
-> A adoção de políticas de qualidade auxilia a mitigar riscos, promove a confiança nas entregas do projeto e, por fim, aumenta a probabilidade de sucesso do empreendimento. 
-
-> Referência - Conceitual
-> * https://www.researchgate.net/publication/230636169_Software_Quality_Assurance
-
-> Normas de Qualidade:
-> * https://repositorium.uminho.pt/bitstream/1822/27266/1/Tese_MEI_PG19676_Juliana%20Oliveira.pdf
-> * https://cin.ufpe.br/~processos/TAES3/Livro/00-LIVRO/07-Normas%20ISO%20e%20Qualidade%20de%20Software-v6_CORRIGIDO.pdf
-
-> Métricas de software:
-> * https://repositorio.unicamp.br/Busca/Download?codigoArquivo=489087
-> * https://lume.ufrgs.br/bitstream/handle/10183/66095/000870909.pdf?sequence=1
-> * https://www.computerweekly.com/br/tip/23-metricas-de-desenvolvimento-de-software-que-devem-ser-monitoradas
-
-> Processos de Garantia da Qualidade de Software
-> * https://ceur-ws.org/Vol-3200/paper22.pdf
-> * https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=d6bd60206282a2d4449e414e81a703612ef78a0c
-> * https://www.testbytes.net/blog/quality-assurance-process-methodology/
-> * https://www.projectmanager.com/blog/quality-assurance-and-testing
+O plano de qualidade foi elaborado por meio da listagem de diversas atividades que precisam passar por testes e aperfeiçoamentos antes da implementação. Após estabelecer as atividades, foi designado um responsável para garantir o bom funcionamento de cada uma até a data limite. Além disso, foram definidas as métricas pelas quais cada atividade será avaliada, bem como os fatores que levariam à não conformidade. Ao final, foi também atribuída outra pessoa para realizar a avaliação. Foi listada a norma utilizada para a avaliação e uma lista generalizada indicando o que cada integrante está avaliando.
 
 ## Plano de Riscos
 
