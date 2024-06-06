@@ -83,7 +83,7 @@ O plano de aquisição abrange desde itens físicos para protótipos até licen�
 > Você deve preencher o seguinte documento:
 - [Declaracao_escopo](artefatos/Declaracao_escopo.pdf)
 - [cronograma](artefatos/cronograma.pod)
-- - [cronograma](artefatos/Orçamento.pod)
+- [Orçamento](artefatos/Orçamento.pod)
 
 ## Estrutura Analítica do Projeto (EAP)
 
