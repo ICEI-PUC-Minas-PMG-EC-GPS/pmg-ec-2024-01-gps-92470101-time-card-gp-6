@@ -70,7 +70,7 @@
 >
 > Banco de Dados: Cada microsserviço pode ter seu próprio banco de dados para armazenar os dados específicos de sua responsabilidade.
 > 
-> ![Arquitetura](images/arquitetura-sistema.png)
+> ![Arquitetura](images/arquiteturadesistemas.jpeg)
 
 
 
