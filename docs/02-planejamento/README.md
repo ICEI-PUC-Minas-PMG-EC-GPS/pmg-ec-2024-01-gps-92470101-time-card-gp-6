@@ -44,13 +44,7 @@ No escopo do projeto, foram listadas as etapas estimadas para a conclusão, send
 
 
 # Cronograma do Projeto
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> O cronograma do projeto fornece uma representação temporal detalhada de todas as atividades, marcos e eventos ao longo do ciclo de vida do projeto. 
-> Elaborado durante o planejamento, o cronograma é uma ferramenta que oferece uma visão das interdependências entre as tarefas, alocando recursos e definindo prazos para as entregas.
-> Utilizando técnicas como a análise de rede (PERT/CPM) e estimativas de duração, o cronograma ajuda na identificação de caminhos críticos, permitindo aos gestores de projeto otimizar recursos, antecipar potenciais atrasos e tomar decisões. 
-> Além disso, o cronograma serve como um guia para monitorar o progresso, comunicar efetivamente com a equipe e as partes interessadas, e ajustar estratégias para garantir a conclusão bem-sucedida do projeto dentro dos prazos estabelecidos.
+Feito no software ProjectLibre, o cronograma foi dividido em três principais etapas: 1) levantamento de requisitos, 2) desenvolvimento e 3) implantação, com prazo estimado de 95 dias, sendo 30, 60 e 35 dias, respectivamente. Dentro dessas três etapas principais, foram criadas cerca de cinco subetapas, que dividem entre si, conforme a importância, o tempo de cada etapa.
 
 # Orçamento do Projeto
 
