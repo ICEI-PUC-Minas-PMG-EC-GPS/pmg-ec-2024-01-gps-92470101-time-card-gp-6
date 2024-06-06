@@ -107,9 +107,13 @@
 >O diagrama de banco de dados proposto visa organizar os dados da pulseira de monitoramento cardíaco de forma eficiente e segura. Aqui está uma explicação concisa:
 >
 >Entidades: O diagrama apresenta entidades como Usuários, Médicos, Familiares, Pulseiras, Leituras e Alertas. Cada entidade representa um tipo de informação a ser armazenada.
+> 
 >Atributos: Cada entidade possui atributos (campos) que definem suas características. Por exemplo, a entidade Usuário possui atributos como nome, email e data de nascimento.
+> 
 >Relacionamentos: As linhas entre as entidades representam os relacionamentos entre elas. Por exemplo, um usuário pode ter várias pulseiras (relacionamento 1:N).
+> 
 >Chaves Estrangeiras: As chaves estrangeiras (como id_usuario na tabela Pulseiras) estabelecem conexões entre tabelas, garantindo a integridade dos dados.
+> 
 >Tipos de Dados: Cada atributo possui um tipo de dado definido (INT, VARCHAR, DATE, etc.), garantindo a consistência e otimizando o armazenamento.
 >
 > ![Diagrama de Banco de Dados](images/DiagramaBancoDeDados.png)
