@@ -107,7 +107,6 @@
 > Indique como as informações serão persistitdas, incluindo nome do banco de dados (ou base de dados) e uso de frameworks de persistências, caso utilizados.
 > Explique de forma concisa o diagrama, para que seja possível entender a solução proposta.
 >
-> **Exemplo de diagrama de Banco de Dados**:
-> ![Exemplo de diagrama de Banco de Dados](images/database-diagram.png)
+> ![Diagrama de Banco de Dados](images/DiagramaBancoDeDados.png)
 
 
