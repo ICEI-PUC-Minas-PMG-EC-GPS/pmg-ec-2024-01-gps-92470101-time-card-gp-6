@@ -36,7 +36,9 @@
 
 # Matriz de Responsabilidades
 
-......  COLOQUE AQUI O SEU TEXTO ......
+A Matriz de Responsabilidades (matriz RACI) foi desenvolvida com uma distribuição igualitária e funcional em mente. Ana Beatriz assumiu o papel de Gerente do Projeto, uma escolha lógica, considerando que ela já era Scrum Master. A divisão foi feita em 16 atividades, cada uma com uma distinção clara. Foi dado ao patrocinador o trabalho de aprovar cada uma dessas atividades. Ao gerente e à equipe, foi atribuído o papel de serem informados ou consultados, enquanto outra parte era responsável.
+
+Foi observado que nenhum dos integrantes possuía proficiência excelente na área de atuação, o que tornou necessário fornecer algum treinamento a todos os membros da equipe.
 
 > A Matriz de Responsabilidades é uma ferramenta para definir e indicar as responsabilidades de cada membro da equipe em relação às atividades do projeto. 
 > Também conhecida como RACI (Responsável, Aprovador, Consultado e Informado), essa matriz atribui papéis específicos a cada envolvido, indicando quem é responsável pela execução de uma tarefa, quem deve aprovar, quem precisa ser consultado e quem deve ser mantido informado. 
