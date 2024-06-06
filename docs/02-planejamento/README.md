@@ -72,23 +72,7 @@ O plano de qualidade foi elaborado por meio da listagem de diversas atividades q
 
 ## Plano de Aquisição
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> O Plano de Aquisições define o processo relacionado à aquisição de bens e serviços necessários para a execução do projeto. 
-> Este plano abrange a identificação de necessidades, a seleção de fornecedores, a elaboração de contratos, e a gestão do relacionamento com os fornecedores durante do ciclo de vida do projeto. 
-> O Plano de Aquisições visa garantir a aquisição eficiente e eficaz dos recursos necessários, minimizando riscos e custos. 
-> Além disso, ele proporciona transparência nas relações com fornecedores, promovendo a conformidade com os prazos estabelecidos e padrões de qualidade. 
-
-## Plano de Gestão de RH
-
-......  *(OPCIONAL)* COLOQUE AQUI O SEU TEXTO ......
-
-> O Plano de Gestão de Recursos Humanos (RH) estabelece estratégias para o gerenciamento eficaz da equipe.
-> Este plano abrange aspectos como a identificação das necessidades de recursos humanos, a alocação de pessoal, o desenvolvimento de competências, a definição de papéis e responsabilidades, e estratégias de motivação e retenção da equipe. 
-> Este plano visa otimizar o desempenho da equipe, promovendo um ambiente de trabalho colaborativo, em que as habilidades certas estejam disponíveis no momento adequado. 
-> Além disso, aborda a comunicação interna, resolução de conflitos e planos de desenvolvimento profissional. 
-
-
+O plano de aquisição abrange desde itens físicos para protótipos até licenças de softwares utilizados no desenvolvimento. Cada item listado inclui a quantidade necessária e uma justificativa para sua escolha. Os produtos físicos, em específico, possuem uma quantidade destinada à prototipagem e outra para a distribuição final.
 # Documentos
 
 > Esta seção deve ser utilizada para armazenamento e listagem dos documentos e artefatos produzidos durante as aulas.
@@ -97,7 +81,7 @@ O plano de qualidade foi elaborado por meio da listagem de diversas atividades q
 ## Aquisição de Produtos
 
 > Você deve preencher o seguinte documento:
-- [Declaração de Escopo](artefatos/Declaracao_escopo.pdf)
+- [Declaração de Escopo](artefatos/solicitacao-compra.pdf)
 
 ## Checklist de Qualidade
 
