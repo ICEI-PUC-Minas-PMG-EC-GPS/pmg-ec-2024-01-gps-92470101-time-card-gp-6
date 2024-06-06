@@ -19,7 +19,6 @@
   - [Plano de Qualidade](#plano-de-qualidade)
   - [Plano de Riscos](#plano-de-riscos)
   - [Plano de Aquisição](#plano-de-aquisição)
-  - [Plano de Gestão de RH](#plano-de-gestão-de-rh)
 - [Documentos](#documentos)
   - [Aquisição de Produtos](#aquisição-de-produtos)
   - [Checklist de Qualidade](#checklist-de-qualidade)
