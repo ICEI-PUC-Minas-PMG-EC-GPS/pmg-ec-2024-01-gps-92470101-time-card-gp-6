@@ -56,21 +56,22 @@
 
 ## Arquitetura da solução
 
-......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE ARQUITETURA .......
-
-> A arquitetura de software define a organização de um sistema, definindo seus componentes e suas relações.
-> Abrange escolhas de design que influenciam aspectos como desempenho, escalabilidade, segurança e manutenibilidade do software. 
-> A arquitetura de software serve como um mapa que orienta as decisões de desenvolvimento, fornecendo uma visão global que facilita a compreensão e a colaboração entre membros da equipe. 
-> Uma arquitetura bem projetada promove a modularidade, facilitando a evolução e a manutenção do sistema ao longo do tempo.
-
-> Inclua um diagrama da arquitetura do sistema. 
-> Explique e justifique a arquitetura escolhida, com base nos objetivos do sistema, número de usuários esperados, tamanho da aplicação, previsão de expansão do sistema e orçamento do projeto.
-> 
-> **Exemplo do diagrama de Arquitetura (Microserviços x Monolítica)**:
-> ![Exemplo Genérico de Arquitetura](images/arquitetura-sistema.png)
+> A arquitetura de microsserviços decompõe a aplicação em serviços menores e independentes, cada um com uma responsabilidade específica. Esses serviços se comunicam entre si através de > APIs bem definidas.
+> Serviços:
+> Serviço de Monitoramento: Responsável por receber e processar os dados de frequência cardíaca da pulseira.
 >
-> **[Exemplo Arquitetura eShopOnContainers](https://learn.microsoft.com/pt-br/dotnet/architecture/microservices/multi-container-microservice-net-applications/microservice-application-design)**
-> ![Arquitetura eShopOnContainers](images/eshoponcontainers-architecture.png)
+> Serviço de Alertas: Responsável por analisar os dados, identificar irregularidades e disparar alertas.
+>
+> Serviço de Usuários: Responsável por gerenciar os usuários, seus perfis e configurações.
+>
+> Serviço de Comunicação: Responsável por enviar alertas para médicos e familiares (através de SMS, email, etc.).
+>
+> Serviço de Autenticação: Responsável por autenticar usuários e garantir o acesso seguro aos dados.
+>
+> Banco de Dados: Cada microsserviço pode ter seu próprio banco de dados para armazenar os dados específicos de sua responsabilidade.
+> 
+> ![Arquitetura](images/arquitetura-sistema.png)
+
 
 
 ## Diagrama de Classes
