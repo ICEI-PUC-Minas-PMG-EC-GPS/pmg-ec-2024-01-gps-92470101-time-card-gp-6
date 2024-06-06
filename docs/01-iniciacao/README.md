@@ -192,12 +192,9 @@ A tabela a seguir apresenta as restrições do projeto.
 |RE-005|	Os dados armazenados devem ser criptografados	|ALTA|
 
 # Partes Interessadas
+  
+Os principais interessados no projeto são indivíduos e organizações preocupados com problemas de saúde, especialmente devido à alta prevalência de doenças cardíacas, tem assim maior influencia. Além disso, universidades como a PUC Minas e grandes empresas de tecnologia também podem se interessar pelo projeto devido ao benefico social, porem com menor influencia.
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Relacione as partes interessadas no seu projeto. 
-> Você deve descrever as partes interessadas e indicar qual o nível de influência em relação ao projeto.
-> Indique as principais pessoas (clientes, fornecedores, etc), indicando possíveis expectativas, nível de influência e possível importância para o sucesso do projeto.
 
 # Estimativa de Custo e Prazo
 
