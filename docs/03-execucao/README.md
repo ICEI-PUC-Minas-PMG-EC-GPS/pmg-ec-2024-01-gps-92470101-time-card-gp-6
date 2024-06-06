@@ -91,8 +91,6 @@
 
 ## Persistência dos Dados
 
-......  COLOQUE AQUI O SEU TEXTO E O MODELOS DE DADOS .......
-
 > **Banco de Dados Relacional:**
 > MySQL: Banco de dados relacional de código aberto, amplamente utilizado e com boa documentação.
 >
