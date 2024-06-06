@@ -75,9 +75,6 @@ O plano de qualidade foi elaborado por meio da listagem de diversas atividades q
 O plano de aquisição abrange desde itens físicos para protótipos até licenças de softwares utilizados no desenvolvimento. Cada item listado inclui a quantidade necessária e uma justificativa para sua escolha. Os produtos físicos, em específico, possuem uma quantidade destinada à prototipagem e outra para a distribuição final.
 # Documentos
 
-> Esta seção deve ser utilizada para armazenamento e listagem dos documentos e artefatos produzidos durante as aulas.
-> Atualize os documentos nos respectivos links.
-
 ## Aquisição de Produtos
 
 > Você deve preencher o seguinte documento:
