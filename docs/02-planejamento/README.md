@@ -32,7 +32,7 @@
 
 # Estrutura Analítica do Projeto
 
-> ![Exemplo de EAP](images/EAP.png)
+> ![Exemplo de EAP](artefatos/EAP.png)
 
 # Matriz de Responsabilidades
 
@@ -97,7 +97,7 @@ O plano de aquisição abrange desde itens físicos para protótipos até licen�
 ## Estrutura Analítica do Projeto (EAP)
 
 > Você deve preencher o seguinte documento:
-- [Estrutura Analítica do Projeto](artefatos/estrutura_analitica_projeto.pdf)
+- [Estrutura Analítica do Projeto](artefatos/EAP.png)
 
 ## Matriz de Responsabilidades (RACI)
 
