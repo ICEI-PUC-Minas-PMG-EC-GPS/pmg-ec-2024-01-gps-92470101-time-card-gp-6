@@ -47,13 +47,7 @@ Feito no software ProjectLibre, o cronograma foi dividido em três principais et
 
 # Orçamento do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> O orçamento do projeto envolve a estimativa e alocação de recursos financeiros necessários para a execução bem-sucedida do projeto, abrangendo custos diretos e indiretos, despesas operacionais, investimentos em equipamentos, pessoal, entre outros. 
-> O desenvolvimento do orçamento deve considerar variáveis como riscos, imprevistos e mudanças no escopo. 
-> Uma vez estabelecido, o orçamento serve como guia para a utilização eficiente dos recursos financeiros ao longo do projeto. 
-> A gestão do orçamento não apenas ajuda a controlar os custos, mas tambédswam fornece transparência e prestação de contas, permitindo que gestores tomem decisões informadas e evitem surpresas financeiras ao longo do ciclo de vida do projeto. 
-> Assim, o orçamento contribui para o sucesso do projeto, garantindo a viabilidade econômica e a entrega dentro das expectativas financeiras estabelecidas.
+Feito no software ProjectLibre, o orçamento foi dividido em quatro etapas: 1) iniciação, 2) planejamento, 3) execução e 4) encerramento. Cada etapa teve um prazo atribuído e foi subdividida em 6 a 7 subetapas. Nessas subetapas, foram definidos os prazos, atribuídos os responsáveis e vinculados os valores necessários para a realização de cada atividade. Ao final, foi feita a estimativa de custo por hora de cada integrante.
 
 # Planos de Gerenciamento
 
@@ -89,6 +83,7 @@ O plano de aquisição abrange desde itens físicos para protótipos até licen�
 > Você deve preencher o seguinte documento:
 - [Declaracao_escopo](artefatos/Declaracao_escopo.pdf)
 - [cronograma](artefatos/cronograma.pod)
+- - [cronograma](artefatos/Orçamento.pod)
 
 ## Estrutura Analítica do Projeto (EAP)
 
