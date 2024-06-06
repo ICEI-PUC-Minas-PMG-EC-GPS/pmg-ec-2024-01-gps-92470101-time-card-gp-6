@@ -68,7 +68,7 @@ O plano de qualidade foi elaborado por meio da listagem de diversas atividades q
 
 ## Plano de Riscos
 
-[Plano de Riscos](images/riscos.png)
+> ![Plano de Riscos](images/riscos.png)
 
 ## Plano de Aquisição
 
