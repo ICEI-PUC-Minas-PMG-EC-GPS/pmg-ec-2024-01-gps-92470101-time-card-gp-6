@@ -94,27 +94,24 @@
 ......  COLOQUE AQUI O SEU TEXTO E O MODELOS DE DADOS .......
 
 > **Banco de Dados Relacional:**
-> Um diagrama relacional é uma representação gráfica que ilustra as tabelas e as relações entre elas em um banco de dados relacional. 
-> Ele descreve a estrutura do banco de dados, destacando as entidades, seus atributos e as conexões estabelecidas.
+> MySQL: Banco de dados relacional de código aberto, amplamente utilizado e com boa documentação.
 >
 > **Banco de Dados No-SQL:**
-> Bancos de dados NoSQL representam uma categoria diversificada de sistemas de gerenciamento de dados que se afastam do modelo relacional tradicional. 
-> Ao contrário dos bancos de dados SQL, os NoSQL adotam abordagens mais flexíveis e escaláveis para armazenar e recuperar dados. 
-> Esses sistemas são particularmente eficazes em lidar com grandes volumes de dados não estruturados ou semiestruturados, como documentos, grafos, pares chave-valor e famílias de colunas.
+> MongoDB: Banco de dados orientado a documentos, flexível e escalável
 > 
 > **Diagrama de Banco de Dados:**
 >
->O diagrama de banco de dados proposto visa organizar os dados da pulseira de monitoramento cardíaco de forma eficiente e segura. Aqui está uma explicação concisa:
+> O diagrama de banco de dados proposto visa organizar os dados da pulseira de monitoramento cardíaco de forma eficiente e segura. Aqui está uma explicação concisa:
 >
->Entidades: O diagrama apresenta entidades como Usuários, Médicos, Familiares, Pulseiras, Leituras e Alertas. Cada entidade representa um tipo de informação a ser armazenada.
+> Entidades: O diagrama apresenta entidades como Usuários, Médicos, Familiares, Pulseiras, Leituras e Alertas. Cada entidade representa um tipo de informação a ser armazenada.
 > 
->Atributos: Cada entidade possui atributos (campos) que definem suas características. Por exemplo, a entidade Usuário possui atributos como nome, email e data de nascimento.
+> Atributos: Cada entidade possui atributos (campos) que definem suas características. Por exemplo, a entidade Usuário possui atributos como nome, email e data de nascimento.
 > 
->Relacionamentos: As linhas entre as entidades representam os relacionamentos entre elas. Por exemplo, um usuário pode ter várias pulseiras (relacionamento 1:N).
+> Relacionamentos: As linhas entre as entidades representam os relacionamentos entre elas. Por exemplo, um usuário pode ter várias pulseiras (relacionamento 1:N).
 > 
->Chaves Estrangeiras: As chaves estrangeiras (como id_usuario na tabela Pulseiras) estabelecem conexões entre tabelas, garantindo a integridade dos dados.
+> Chaves Estrangeiras: As chaves estrangeiras (como id_usuario na tabela Pulseiras) estabelecem conexões entre tabelas, garantindo a integridade dos dados.
 > 
->Tipos de Dados: Cada atributo possui um tipo de dado definido (INT, VARCHAR, DATE, etc.), garantindo a consistência e otimizando o armazenamento.
+> Tipos de Dados: Cada atributo possui um tipo de dado definido (INT, VARCHAR, DATE, etc.), garantindo a consistência e otimizando o armazenamento.
 >
 > ![Diagrama de Banco de Dados](images/DiagramaBancoDeDados.png)
 
