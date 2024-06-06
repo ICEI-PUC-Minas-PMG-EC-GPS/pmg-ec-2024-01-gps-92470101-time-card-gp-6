@@ -97,7 +97,7 @@ O plano de qualidade foi elaborado por meio da listagem de diversas atividades q
 ## Aquisição de Produtos
 
 > Você deve preencher o seguinte documento:
-- [Declaração de Escopo](artefatos/Declaracao de escopo.pdf)
+- [Declaração de Escopo](artefatos/Declaracao_escopo.pdf)
 
 ## Checklist de Qualidade
 
