@@ -46,11 +46,11 @@ O problema a ser solucionado pelo projeto de monitoramento cardíaco é o aument
 
 ## Objetivos
 
-Enviar um alerta ao identificar frequência cardíaca irregular para o usuário.
-> Objetivos específicos: 
-> 1- Capacitar os usuários a tomar medidas proativas em relação à sua saúde cardíaca, fornecendo ferramentas de monitoramento acessíveis que promovam o autocuidado e a prevenção.
-> 2- Minimizar os riscos associados a problemas cardíacos através da detecção precoce de anomalias na frequência cardíaca e da notificação imediata a profissionais de saúde e familiares.
-> 3- Desenvolver um sistema de alerta que seja capaz de notificar imediatamente médicos e familiares em caso de leituras irregulares na frequência cardíaca, com a opção de personalizar os parâmetros de alerta.
+Auxiliar pessoas no dia a dia  a monitorar de forma inteligente sua saúde cardíaca através dos batimentos e enviar um alerta ao identificar frequência cardíaca irregular para o usuário.
+> Objetivos específicos:
+1. Capacitar os usuários a tomar medidas proativas em relação à sua saúde cardíaca, fornecendo ferramentas de monitoramento acessíveis que promovam o autocuidado e a prevenção.
+2. Minimizar os riscos associados a problemas cardíacos através da detecção precoce de anomalias na frequência cardíaca e da notificação imediata a profissionais de saúde e familiares.
+3. Desenvolver um sistema de alerta que seja capaz de notificar imediatamente médicos e familiares em caso de leituras irregulares na frequência cardíaca, com a opção de personalizar os parâmetros de alerta.
  
 # Especificações do Projeto
 
