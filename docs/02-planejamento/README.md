@@ -81,7 +81,7 @@ O plano de aquisição abrange desde itens físicos para protótipos até licen�
 ## Aquisição de Produtos
 
 > Você deve preencher o seguinte documento:
-- [Declaração de Escopo](artefatos/solicitacao-compra.pdf)
+- [Aquisição de Produtos](artefatos/solicitacao-compra.pdf)
 
 ## Checklist de Qualidade
 
