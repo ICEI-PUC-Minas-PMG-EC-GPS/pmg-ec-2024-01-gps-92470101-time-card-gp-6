@@ -38,29 +38,9 @@
 
 A Matriz de Responsabilidades (matriz RACI) foi desenvolvida com uma distribuição igualitária e funcional em mente. Ana Beatriz assumiu o papel de Gerente do Projeto, uma escolha lógica, considerando que ela já era Scrum Master. A divisão foi feita em 16 atividades, cada uma com uma distinção clara. Foi dado ao patrocinador o trabalho de aprovar cada uma dessas atividades. Ao gerente e à equipe, foi atribuído o papel de serem informados ou consultados, enquanto outra parte era responsável.
 
-Foi observado que nenhum dos integrantes possuía proficiência excelente na área de atuação, o que tornou necessário fornecer algum treinamento a todos os membros da equipe.
-
-> A Matriz de Responsabilidades é uma ferramenta para definir e indicar as responsabilidades de cada membro da equipe em relação às atividades do projeto. 
-> Também conhecida como RACI (Responsável, Aprovador, Consultado e Informado), essa matriz atribui papéis específicos a cada envolvido, indicando quem é responsável pela execução de uma tarefa, quem deve aprovar, quem precisa ser consultado e quem deve ser mantido informado. 
-> Ao criar uma visão visual e estruturada das responsabilidades, a matriz RACI minimiza ambiguidades e conflitos de papel.
-> Essa ferramenta não apenas esclarece as expectativas em termos de contribuições individuais, mas também contribui para um ambiente de trabalho mais organizado e transparente, resultando em uma gestão de projeto mais eficaz e bem-sucedida.
-
-> Informações Adicionais:
-> * **R**esponsible -> Executor (pessoa(s) que executará(ão)/desenvolverá(ão) a atividade)
-> * **A**ccountable -> Responsável (pessoa responsável por aprovar a atividade)
-> * **C**onsulted   -> Consultado (especialista consultado sobre a atividade ou parte dela)
-> * **I**nformed    -> Informado (pessoas interessadas no projeto que devem ser informadas sobre a execução).
-> 
-> Link de auxílio: https://www.forbes.com/advisor/business/raci-chart/
-
 # Escopo do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> O escopo do projeto define os limites, objetivos e entregáveis do projeto, estabelecendo clareza sobre o que será realizado e o que está excluído do escopo. 
-> O escopo assegura a alocação adequada de recursos, evita desvios dos objetivos do projeto e garante que as expectativas dos stakeholders sejam atendidas. 
-> A definição do escopo inclui documentação detalhada dos requisitos, restrições e premissas do projeto. 
-> Ao longo do ciclo de vida do projeto, a gestão do escopo também inclui o controle de mudanças, garantindo que qualquer ajuste seja avaliado quanto ao seu impacto e aprovado de maneira adequada. 
+No escopo do projeto, foram listadas as etapas estimadas para a conclusão, sendo elas: 1) planejamento, 2) análise de requisitos, 3) design do sistema, 4) desenvolvimento, 5) teste e validação, 6) implementação, 7) distribuição, e 8) manutenção e suporte. Foram definidas as restrições e os limites, de forma a minimizar a perda de tempo. Por fim, foram estabelecidas as condições para iniciar o projeto e as etapas foram divididas em datas de entrega.
 
 
 # Cronograma do Projeto
