@@ -38,9 +38,9 @@
 > - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
 > - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
 >
-> **Exemplo**:
+>
 > 
-> ![Exemplo de UserFlow](images/userflow.jpg)
+> ![Exemplo de UserFlow](images/Prototipo.png)
 
 # Modelagem da Solução
 
@@ -64,9 +64,7 @@
 > A arquitetura de microsserviços decompõe a aplicação em serviços menores e independentes, cada um com uma responsabilidade específica. Esses serviços se comunicam entre si através de > APIs bem definidas.
 > Serviços:
 > Serviço de Monitoramento: Responsável por receber e processar os dados de frequência cardíaca da pulseira.
->
-> Serviço de Alertas: Responsável por analisar os dados, identificar irregularidades e disparar alertas.
->
+
 > Serviço de Usuários: Responsável por gerenciar os usuários, seus perfis e configurações.
 >
 > Serviço de Comunicação: Responsável por enviar alertas para médicos e familiares (através de SMS, email, etc.).
@@ -92,7 +90,7 @@
 > Explique de forma concisa o diagrama, para que seja possível entender a solução proposta.
 >
 > **Exemplo de diagrama de Classes**:
-> ![Exemplo de diagrama de Classes](images/class-diagram.png)
+> ![Exemplo de diagrama de Classes](images/classeeeeee.png)
 
 
 ## Persistência dos Dados
@@ -104,19 +102,44 @@
 > MongoDB: Banco de dados orientado a documentos, flexível e escalável
 > 
 > **Diagrama de Banco de Dados:**
+O diagrama de banco de dados foi projetado para organizar os dados coletados por pulseiras de monitoramento cardíaco de forma eficiente e segura. Abaixo está uma explicação concisa de seus componentes principais:
+
+Entidades e Atributos
+Usuário
+
+ID Usuário (PK): Identificador único do usuário.
+Nome: Nome do usuário.
+Imagem de Perfil: Foto do usuário.
+Telefone: Número de contato do usuário.
+E-mail: Endereço de e-mail do usuário.
+Senha: Credencial de acesso do usuário.
+Equipamento Hardware
+
+ID Equipamento (PK): Identificador único do equipamento.
+Número de Série: Identificação específica do equipamento.
+Data de Fabricação: Data em que o equipamento foi fabricado.
+ID Usuário (FK): Chave estrangeira que referencia o usuário proprietário do equipamento.
+Registro
+
+ID Registro (PK): Identificador único do registro.
+Data: Data em que o registro foi feito.
+Horário: Horário do registro.
+BPM: Batimentos por minuto (frequência cardíaca).
+ID Usuário (FK): Chave estrangeira que referencia o usuário associado ao registro.
+Doença Crônica
+
+ID DC (PK): Identificador único da doença crônica.
+Nome: Nome da doença crônica.
+Medicamento: Medicamentos prescritos ou utilizados pelo usuário.
+ID Usuário (FK): Chave estrangeira que referencia o usuário associado à doença crônica.
+Relacionamentos
+Usuário-Equipamento Hardware: Um usuário pode ter vários equipamentos de monitoramento (relacionamento 1
+).
+Usuário-Registro: Um usuário pode ter múltiplos registros de saúde (relacionamento 1
+).
+Usuário-Doença Crônica: Um usuário pode ter várias doenças crônicas registradas (relacionamento 1
+).
 >
-> O diagrama de banco de dados proposto visa organizar os dados da pulseira de monitoramento cardíaco de forma eficiente e segura. Aqui está uma explicação concisa:
->
-> Entidades: O diagrama apresenta entidades como Usuários, Médicos, Familiares, Pulseiras, Leituras e Alertas. Cada entidade representa um tipo de informação a ser armazenada.
-> 
-> Atributos: Cada entidade possui atributos (campos) que definem suas características. Por exemplo, a entidade Usuário possui atributos como nome, email e data de nascimento.
-> 
-> Relacionamentos: As linhas entre as entidades representam os relacionamentos entre elas. Por exemplo, um usuário pode ter várias pulseiras (relacionamento 1:N).
-> 
-> Chaves Estrangeiras: As chaves estrangeiras (como id_usuario na tabela Pulseiras) estabelecem conexões entre tabelas, garantindo a integridade dos dados.
-> 
-> Tipos de Dados: Cada atributo possui um tipo de dado definido (INT, VARCHAR, DATE, etc.), garantindo a consistência e otimizando o armazenamento.
->
-> ![Diagrama de Banco de Dados](images/DiagramaBancoDeDados.png)
+> ![Diagrama de Banco de Dados](images/CLASSSSSSS.png)
 
 
