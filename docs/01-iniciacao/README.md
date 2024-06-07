@@ -330,4 +330,4 @@ Seguindo o framework Scrum, os papéis foram divididos em três categorias: Scru
 > Ao delinear esses elementos de forma detalhada, o Termo de Abertura do Projeto (TAP) fornece uma direção sólida para orientar as atividades subsequentes, facilitando a gestão eficaz do projeto desde o início até o encerramento. 
 > Essa documentação garante a clareza, alinhamento e comprometimento de todos os envolvidos, contribuindo assim para o sucesso do projeto.
 
-> - [Termo de Abertura do Projeto]()
+> - [Termo de Abertura do Projeto](artefatos/TermodeAberturadeProjeto.pdf)
