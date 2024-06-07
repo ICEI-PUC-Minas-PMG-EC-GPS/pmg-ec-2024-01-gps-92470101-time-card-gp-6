@@ -15,7 +15,11 @@
 - [Sugestões e Críticas](#sugestões-e-críticas)
 
 # Encerramento do Projeto
-O Termo de Encerramento descreve uma a conclusão formal das atividades e entregas planejadas. Este documento revisa o escopo do projeto em relação ao que foi realmente entregue, documenta o sucesso ou as variações em relação aos objetivos iniciais, e destaca quaisquer pendências ou recomendações para futuros projetos similares. O Termo de Encerramento também inclui a formalização da aceitação do cliente, a transferência de responsabilidades e ativos, bem como a liberação de recursos da equipe do projeto.
+
+O projeto CARD-Heart Rate Monitor, visa auxiliar as pessoas a monitorar sua saúde cardíaca de maneira inteligente. O escopo do projeto abrange várias etapas, desde o planejamento e análise de requisitos até a implementação, implantação e manutenção do sistema.
+O projeto utilizou diversas ferramentas e técnicas de gerenciamento de projetos, incluindo protótipos navegáveis, modelagem de software e arquitetura de software. Essas abordagens ajudaram a equipe a validar conceitos, testar a usabilidade, obter feedback dos stakeholders, identificar requisitos e detectar inconsistências precocemente.
+Durante o desenvolvimento, foram criados diagramas de classes e de banco de dados para representar visualmente a estrutura e as relações no sistema. Além disso, foi feita uma escolha entre um banco de dados relacional e NoSQL com base nas necessidades específicas do projeto.
+As lições aprendidas durante o projeto enfatizaram a importância do planejamento, gestão de stakeholders, gerenciamento de riscos, foco na qualidade e controle de orçamento. O projeto foi concluído com sucesso, cumprindo todos os marcos agendados desde o início até o lançamento.
 
 # Lições Aprendidas
 
