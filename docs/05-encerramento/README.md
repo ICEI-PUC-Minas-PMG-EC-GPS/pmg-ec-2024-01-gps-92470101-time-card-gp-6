@@ -18,7 +18,12 @@
 O Termo de Encerramento descreve uma a conclusão formal das atividades e entregas planejadas. Este documento revisa o escopo do projeto em relação ao que foi realmente entregue, documenta o sucesso ou as variações em relação aos objetivos iniciais, e destaca quaisquer pendências ou recomendações para futuros projetos similares. O Termo de Encerramento também inclui a formalização da aceitação do cliente, a transferência de responsabilidades e ativos, bem como a liberação de recursos da equipe do projeto.
 
 # Lições Aprendidas
-A identificação e documentação de lições aprendidas contribuem significativamente para a melhoria contínua e o aprimoramento das práticas organizacionais. Este processo envolve a reflexão sistemática sobre os sucessos e desafios enfrentados durante a execução do projeto, analisando o que funcionou bem e o que poderia ser melhorado. A documentação dessas lições aprendidas abrange não apenas os aspectos técnicos, mas também os relacionados ao gerenciamento de equipes, comunicação, riscos, entre outros. Ao compartilhar essas experiências, as organizações têm a oportunidade de evitar a repetição de erros, replicar práticas bem-sucedidas e fortalecer a capacidade de gerenciamento de projetos ao longo do tempo.
+
+1 .  Deve ser definido um tempo de acordo com o tamanho do projeto, não se preocupando com a implementação de  artifícios que saiam do planejamento inicial.
+2. Planejamento é essencial, o processo reforçou a importância de um planejamento sólido e detalhado. A criação de documentos como o Termo de Abertura, Declaração de Escopo e Estrutura Analítica do Projeto ajudou a definir claramente os objetivos, escopo e divisão de tarefas, facilitando a execução eficiente do projeto.
+3. Flexibilidade e adaptação, projetos raramente seguem exatamente o plano inicial. É importante ser flexível e estar pronto para se adaptar a mudanças e desafios inesperados que possam surgir durante a execução do projeto.
+4. Trabalho em equipe e comunicação, a comunicação eficaz e o trabalho em equipe são cruciais para o sucesso de qualquer projeto. A Matriz RACI, por exemplo, ajudou a definir claramente as responsabilidades de cada membro da equipe, promovendo uma melhor colaboração e evitando mal-entendidos.
+5. Conhecimento de mercado é fundamental, saber se um mercado está ou não saturado é muito importante. Conhecer os melhores fornecedores de servidores e peças também está incluso.
 
 # Auto-avaliação
 Eron
